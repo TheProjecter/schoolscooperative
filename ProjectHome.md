@@ -1,0 +1,1 @@
+This is an cloud application using GAE written in Java,that any education institute can use in order the student to watch in a broadcasting way videos that can comment. These videos can be uploaded by the students and teachers. Only teacher can edit or delete the videos, so can administrate the application in order the content to be the wright one.
